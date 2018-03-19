@@ -2,4 +2,4 @@ git is good!
 git is for free!
 git is great!
 git ...
-git changes
+git changes of files
